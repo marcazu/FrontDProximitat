@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "803502059498",
+    "project_id": "dproximitat-efe4f",
+    "storage_bucket": "dproximitat-efe4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803502059498:android:094746849c21804604cc93",
+        "android_client_info": {
+          "package_name": "com.example.frontapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803502059498-unsga167otom0nong5hpks2ufmc1fg1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyHvcXQebjljM9nzmMZskvDjGu_BBBJIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803502059498-unsga167otom0nong5hpks2ufmc1fg1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
